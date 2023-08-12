@@ -1,0 +1,47 @@
+.kusunu
+{
+    border-color: blue;
+    font-size: 100px;
+    background-color: chartreuse;
+    font-family: "Franklin Gothic Medium";
+}
+P{
+   background-color: red; 
+   font-size: 100px;
+   color:aqua
+
+}
+div{
+    height: 100px;
+    width:200;
+    color:blueviolet;
+    background-color: rgb(255, 0, 183);
+}
+/*{
+    background-color: brown;
+    font-size: 10px;
+    font-family: fantasy;
+    
+}*/
+input[type=]
+{
+    background-color: blueviolet;
+    border: "100px;color(srgb red green blue);"
+    color:red;
+}
+a:hover{
+    height: 100px;
+    width: 200px;
+    background-color: aqua;
+}
+a:visited
+{
+    height: 100px;
+    width: 200px;
+    color:rgb(0, 0, 0)
+}
+div:hover{
+    background-color: blue;
+    height: 500px;
+    width:500px;
+}
